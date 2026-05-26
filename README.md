@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <em>Full-stack developer · TypeScript & Python enthusiast · Building things that matter</em>
+  <em>Full-stack developer · AI/ML enthusiast · Building things that matter</em>
 </p>
 
 <p align="center">
@@ -23,9 +23,38 @@
 ### 🚀 About Me
 
 - 🔭 Currently working on **THUMBTUBE** — a TypeScript YouTube tool
-- 🌱 Learning more about computer vision & full-stack architecture
-- 💡 Love building UIs, exploring CV, and solving real-world problems
+- 🤖 Exploring **AI/ML, Computer Vision & Generative AI**
+- 🌱 Building full-stack apps with TypeScript & Python
+- 💡 Love creating UIs that are clean, fast & purposeful
 - 📫 Reach me at: **github.com/vedikakapoor27**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**AI / ML / Gen AI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6B6B?style=flat-square&logoColor=white)
+
+**Tools & Frameworks**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -33,23 +62,23 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [THUMBTUBE](https://github.com/vedikakapoor27/THUMBTUBE) | YouTube thumbnail tool | TypeScript |
-| [classroom-Frontend](https://github.com/vedikakapoor27/classroom-Frontend) | Classroom management UI | TypeScript |
+| [THUMBTUBE](https://github.com/vedikakapoor27/THUMBTUBE) | YouTube thumbnail previewer & generator | TypeScript |
+| [classroom-Frontend](https://github.com/vedikakapoor27/classroom-Frontend) | Interactive classroom management UI | TypeScript |
 | [solars](https://github.com/vedikakapoor27/solars) | Solar system visualization | JavaScript |
-| [capture_with_mask](https://github.com/vedikakapoor27/capture_with_mask) | Computer vision masking | Python |
+| [capture_with_mask](https://github.com/vedikakapoor27/capture_with_mask) | Computer vision masking with OpenCV | Python |
 | [Expense-tracker](https://github.com/vedikakapoor27/Expense-tracker) | Personal finance tracker | HTML |
 | [MannSaathi](https://github.com/vedikakapoor27/MannSaathi) | Mental wellness app | — |
 
 ---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedikakapoor27&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedikakapoor27&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vedikakapoor27&theme=tokyonight&hide_border=true" />
+![Contributions](https://img.shields.io/badge/Contributions_(2026)-134-30a14e?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Repositories-23-3178C6?style=for-the-badge&logo=github&logoColor=white)
+![Streak](https://img.shields.io/badge/Longest_Streak-11_days-FF6B35?style=for-the-badge&logoColor=white)
+
 </p>
 
 ---
